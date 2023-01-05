@@ -1,6 +1,5 @@
 💥💥To see click here 👇💥💥
-gadgetshop.42web.io/
-
+(http://gadgetshop.42web.io/)
 
 # User page
 ![image](https://user-images.githubusercontent.com/79355299/210710778-9806cdf1-533f-4331-bfca-037758ff1fe0.png)
